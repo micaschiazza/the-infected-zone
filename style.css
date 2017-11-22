@@ -1,0 +1,131 @@
+
+
+.navbar-green {
+	color: red;
+	background: black!important;
+}
+
+.navbar-green a {
+	color: red!important;	
+}
+
+
+.jumbotron {
+	background-color: black;
+	text-align: center;
+	color: #ff2d2d;
+
+
+}
+
+.jumbotron {
+background-image: url("../bridgeapoc.jpg");
+background-size: cover; width: 100%;
+
+}
+
+.jumbotron {
+background-image: url("../bridgeapoc.jpg");
+background-size: cover; width: 100%;
+
+}
+
+.box1{
+	background: black;
+	height: 200px;
+	padding: 75px 0;
+	text-align: center; 
+
+
+
+}
+
+.box1 a {
+
+	color: red;
+	padding: 2rem;
+	border-top: 10px solid red;
+	border-bottom: 2px solid red;
+}
+
+
+.box2{
+	background: black;
+	height: 200px;
+	padding: 75px 0;
+	text-align: center;
+	 
+	
+
+}
+
+.box2 a {
+
+	color: red;
+	padding: 2rem;
+	border-top: 2px solid red;
+	border-bottom: 2px solid red;
+}
+
+
+.box3{
+	background: black;
+	height: 200px;
+	padding: 75px 0;
+	text-align: center;
+	
+
+}
+
+.box3 a {
+
+	color: red;
+	padding: 2rem;
+	
+}
+
+
+
+.carousel {
+	
+}
+
+.carousel-item {
+	max-height: 15rem;
+}
+
+.carousel img {
+	width: 30rem;
+	height: auto;
+	margin: 0 auto;
+	padding-bottom: px;
+}
+
+footer {
+	position: relative;
+	width: 100%;
+	margin-top: 10rem;
+	background: #black;
+	padding: 2rem;
+	border-top: 2px solid red;
+}
+
+footer a {
+   color: red!important;	
+   }
+
+.margin-top50 {margin-top: 50px;}
+.red {color: red;}
+
+
+
+
+.margin-top-10 {margin-top: 10px}
+.margin-top-20 {margin-top: 20px}
+.margin-top-30 {margin-top: 30px}
+.margin-top-40 {margin-top: 40px}
+.margin-top-50 {margin-top: 50px}
+.margin-top-60 {margin-top: 60px}
+.margin-top-70 {margin-top: 70px}
+.margin-top-80 {margin-top: 80px}
+
